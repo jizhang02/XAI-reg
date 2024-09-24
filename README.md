@@ -16,8 +16,8 @@ Explainability for regression CNN
 The code is implimented with Python 3.* and Deep learning library Tensorflow (Keras 2.*) and public library [iNNvestigate](https://github.com/albermax/innvestigate).
 
 ---
-The work is finished together with [Caroline Petitjean](http://pagesperso.litislab.fr/cpetitjean/) and [Samia Ainouz](https://pagesperso.litislab.fr/sainouz/) in [LITIS](https://www.litislab.fr/) lab and [Florian Yger](http://www.yger.fr/).
-
+The work is finished together with [Caroline Petitjean](http://pagesperso.litislab.fr/cpetitjean/) and [Samia Ainouz](https://pagesperso.litislab.fr/sainouz/) in [LITIS](https://www.litislab.fr/) lab and [Florian Yger](http://www.yger.fr/).    
+🖼️ [Slides](https://1drv.ms/b/c/ed2e624ab88ab8b4/EbS4irhKYi4ggO3VDAAAAAABRg79OsHUGCAaWkfwP1tWUQ?e=FNsxXX)    
 Please consider citing this paper when you use it:
 
 
